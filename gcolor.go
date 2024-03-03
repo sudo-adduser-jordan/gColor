@@ -1,4 +1,4 @@
-package gcolor
+package main
 
 import (
 	"fmt"
