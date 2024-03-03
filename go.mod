@@ -1,6 +1,6 @@
-module github.com/sudo-adduser-jordan/gcolor
+module github.com/sudo-adduser-jordan/gcolor	
 
-go 1.22.0
+go 1.22
 
 require github.com/charmbracelet/lipgloss v0.9.1
 
