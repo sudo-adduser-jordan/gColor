@@ -1,4 +1,4 @@
-module main
+module gcolor
 
 go 1.22.0
 
