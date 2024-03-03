@@ -1,4 +1,4 @@
-module gcolor
+module github.com/sudo-adduser-jordan/gcolor
 
 go 1.22.0
 
